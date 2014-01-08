@@ -129,6 +129,9 @@ Since version 2.0.7 is is possible to enter the URL of a default image to use in
 Since version 2.0.5 the plugin also has the option to automatically create Open Graph tags on your Wordpress site. These will tell Facebook for example which image to display when sharing a page.
 You can enter the URL of a default image to use in case no image was found. The plugin will try to use the thumbnail attached to the post (if your theme supports it), or the first image it finds in the content. To turn of this behavior you can check a box which will force the plugin to always use the default image you have specified.
 
+= Analytics =
+The plugin runs off our servers at LinksAlpha.com in order to process the social sharing analytics which helps you track virality of your content across social channels.
+
 == Frequently Asked Questions ==
 
 = My excerpts aren't displaying the buttons but some strange text is displayed =
