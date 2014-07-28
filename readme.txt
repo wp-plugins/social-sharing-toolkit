@@ -2,7 +2,7 @@
 Contributors: linksalpha
 Tags: Facebook, Like, LinkedIn, Share, Google, Plus, +1, Pinterest, Google+, Twitter, Tweet, Follow, StumbleUpon, Stumble, Tumblr, Delicious, Digg, Reddit, Myspace, Hyves, YouTube, Flickr, 500px, Picasa, deaviantART, App.net, mail, Gmail, AOL, Evernote, Hotmail, Instapaper, Mail.ru, Pocket, Sonico, vkontakte, Weibo, Yahoo Mail, Yammer, RSS, feed, connect, recommend, social, sharing, widget, shortcode, page, post, button, counter, icon, bitly, Open Graph
 Requires at least: 3.0
-Tested up to: 3.6.1
+Tested up to: 3.9.1
 Stable tag: 2.3
 License: GPLv2 or later
 
